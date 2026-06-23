@@ -77,5 +77,15 @@ async def connect_yoze_chat():
 ---
 
 ## 👨‍💻 Developer Profile
-*   **Project Focus**: High-Concurrency Network Engineering & Systems Architecture
-*   **Target Application**: Fieldwork Placement - August 2026 (Kiteto, Manyara, Tanzania)
+
+**Yohana Zebedayo Ndahani**  
+*Software Developer & Telecommunications Engineer*
+
+* **Institution:** University of Dar es Salaam (UDSM)
+* **Academic Program:** Bachelor of Science in Telecommunications Engineering
+* **Technical Focus:** High-Concurrency Network Engineering, Systems Architecture, & Cross-Platform Development
+* **Core Competencies:** 
+  * **Languages & Frameworks:** Python (AsyncIO, WebSockets), Java (Advanced OOP), Flutter (Mobile Deployment)
+  * **Network & Security:** Subnetting, VLAN Configuration, OSI Model Architecture, & Fundamental Cybersecurity
+  * **Hardware & Signals:** Digital Electronics (Sequential Logic), Signal Processing, & Antenna Parameters
+* **Project Designation:** Developed as a production-grade portfolio asset for technical evaluation during the August 2026 Fieldwork Attachment Program .
